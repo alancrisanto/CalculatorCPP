@@ -19,7 +19,7 @@ This project is a basic functional calculator built in C++ that supports arithme
 
 ---
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=43R8MQC_Kks)
 
 # Development Environment
 
